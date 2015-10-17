@@ -1,0 +1,50 @@
+{
+  "id":"0001",
+  "type":"donut",
+  "name":"cake",
+  "ppu":0.55,
+  "stuffingside":{
+    "batter":[
+      {
+        "id":"1001",
+        "type":"Regular"
+      },
+      {
+        "id":"1002",
+        "type":"Chocolate"
+      }
+    ],
+    "badstuff":[
+      {
+        "id":"1001",
+        "type":"Spoon"
+      },
+      {
+        "id":"1002",
+        "type":"Fork"
+      }
+    ]
+  },
+  "topping": [
+    {
+      "id":"5001",
+      "type":"None"
+    },
+    {
+      "id":"5002",
+      "type":"Glazed"
+    },
+    {
+      "id":"5003",
+      "type":"Sugar"
+    },
+    {
+      "id":"5004",
+      "type":"Powered Sugar"
+    },
+    {
+      "id":"5005",
+      "type":"Chochoclote with Sprinkles"
+    }
+  ]
+}
